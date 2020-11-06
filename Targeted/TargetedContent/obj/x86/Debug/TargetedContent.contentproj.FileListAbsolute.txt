@@ -1,0 +1,3 @@
+C:\Users\Temp Admin\Desktop\GitHubProjects\Video-Game-Design\Targeted\Targeted\TargetedContent\obj\x86\Debug\TargetedContent.contentprojResolveAssemblyReference.cache
+C:\Users\145371\Desktop\Video Game Design\Targeted\Targeted\TargetedContent\obj\x86\Debug\TargetedContent.contentprojResolveAssemblyReference.cache
+C:\Users\rishi\Documents\Github\C#\Targeted\Targeted\TargetedContent\obj\x86\Debug\TargetedContent.contentprojResolveAssemblyReference.cache
